@@ -13,7 +13,7 @@ export default function Home() {
         <div className="hero">
           <h1 className="hero__name">NAM.</h1>
           <p className="hero__paragraph">
-            Hi 👋🏿 I'm <span className="name b">Nana</span>. I'm a Front-end
+            Hi 👋🏿 I'm <span className="name b">Nana</span>. I'm a Software
             Engineer and open source contributor based in Accra, Ghana.
           </p>
 
@@ -49,13 +49,11 @@ export default function Home() {
           </p>
 
           <p className="hero__paragraph">
-            I'm skilled at UI engineering with Javascript, HTML and CSS,
-            performance and currently diving deep into design systems.
-          </p>
-          <p className="hero__paragraph">
-            I love solving complex problems, no matter if it’s a design or
-            technical challenge. I mostly design in code using JavaScript and
-            CSS.
+            I’m a product-focused engineer. Whether code, collaboration, or
+            process, my work is centered on moving a product forward. I bring
+            over 4 years of experience building the web and a developed
+            understanding of technical, interpersonal, and organizational
+            systems to the teams I work with.
           </p>
           <h3 id="say-hello">Say hello</h3>
           <ul>
