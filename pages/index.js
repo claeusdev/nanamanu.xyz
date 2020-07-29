@@ -51,7 +51,7 @@ export default function Home() {
           <p className="hero__paragraph">
             I’m a product-focused engineer. Whether code, collaboration, or
             process, my work is centered on moving a product forward. I bring
-            over 4 years of experience building the web and a developed
+            years of experience building the web and a developed
             understanding of technical, interpersonal, and organizational
             systems to the teams I work with.
           </p>
