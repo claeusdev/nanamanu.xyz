@@ -15,11 +15,11 @@ export default function Layout({ children }) {
               <a>about</a>
             </Link>
           </li> */}
-          {/* <li>
+          <li>
             <Link href="/projects">
               <a>projects</a>
             </Link>
-          </li> */}
+          </li>
           <li>
             <Link href="/resume">
               <a>resume</a>
